@@ -1,7 +1,7 @@
 # Onyx-Fixture-Report
-PowerShell script and .xslt files to transform Obsidian Control Systems Onyx fixture report XML file
+PowerShell .ps1 script and .xslt files to transform Obsidian Control Systems Onyx fixture report XML file into several different output formats.
 
-Download the PowerShell Transform.ps1 script and all the .xslt files to a folder on your computer.
+You can download them as one zip file by clicking on the green Code button and selecting "Download ZIP".  Unzip all the files into a folder on your computer.
 
 Export your patch in Onyx under Show Settings - Patch Tasks - Export Patch.  This will generate three files: a .xml, .xslt, and .css file.  Copy all of them to the directory where you downloaded the code.
 
